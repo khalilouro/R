@@ -8,4 +8,4 @@ Les fichiers présents dans ce dossier implémentent la logique principale de l'
 * l'encodage en système **Bibi-binaire**
 * les traitements nécessaires au fonctionnement de l'application Shiny
 
-Ces scripts sont écrits en **R scripting** et sont utilisés par l'application principale.
+Ces scripts sont écrits en **R** et sont utilisés par l'application principale.
