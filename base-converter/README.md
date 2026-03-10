@@ -73,7 +73,3 @@ ou simplement :
 ```r
 source("app.R")
 ```
-
-## Auteur
-
-Projet réalisé dans le cadre d’un exercice de programmation avec **R et Shiny**.
